@@ -1,0 +1,6 @@
+spring:
+  rsocket:
+    server:
+      port: 7000
+      transport: tcp
+# RSocket 서버 포트 설정
